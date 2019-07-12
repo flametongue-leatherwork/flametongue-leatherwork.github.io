@@ -32,10 +32,14 @@ body {
         text-align: center;
     }
 
-    p { margin: 0.5em 0; }
+    p {
+        font-size: 1rem;
+        margin: 0.5em 0;
+        text-align: center;
+    }
     a,
     a:visited {
-        color: #048;
+        color: #888;
         text-decoration: none;
     }
     a:active,

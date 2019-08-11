@@ -1,0 +1,17 @@
+# Site settings
+title: Flametongue Leatherwork
+url: https://flametongue.co.nz
+description: "One-off, hand crafted leather goods"
+
+footer: Flametongue Leatherwork
+social:
+  - title: instagram
+    url: https://instagram.com/flametongueleather
+
+color:
+  primary-dark: '#000000'
+  links: '#aaa'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
